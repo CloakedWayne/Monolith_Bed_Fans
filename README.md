@@ -7,8 +7,6 @@ This is a bed fan shroud for 4x5015 bed fan configurations. Not as clean as I'd 
 
 ![1](Images/MBF_top.png)
 
-[![ko-fi](Images/kofi_bg_tag_white.png)](https://ko-fi.com/cloakedwayne)
-
 ## BOM
 ### DISCLAIMER: The BOM and files will change with more testing and feedback.
 
