@@ -7,6 +7,8 @@ This is a bed fan shroud for 4x5015 bed fan configurations. Not as clean as I'd 
 
 ![1](Images/MBF_top.png)
 
+[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+
 ## BOM
 ### DISCLAIMER: The BOM and files will change with more testing and feedback.
 
@@ -21,7 +23,6 @@ This is a bed fan shroud for 4x5015 bed fan configurations. Not as clean as I'd 
 
 ![2](Images/MBF_bottom.png)
 
-If you've any got questions you can find me on Discord ***@CloakedWayne***
 <br/><br/><br/><br/>
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
